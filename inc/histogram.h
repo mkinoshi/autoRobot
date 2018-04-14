@@ -1,0 +1,1 @@
+int histogram(char*, char*);
